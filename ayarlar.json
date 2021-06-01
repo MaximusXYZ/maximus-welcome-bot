@@ -1,0 +1,12 @@
+{
+  "tokens": ["token",
+  "token",
+"token"],
+  "channels": ["ID","ID","ID","ID","ID"], 
+  "staffRoles": ["841419518744199228","841750815219122216","841716631830396968","841411305763373056"],
+  "unregisterRoles": ["841701338798227467"],
+
+  "welcomeSound": "./Welcome.mp3",
+  "staffSound": "./Staff.mp3"
+}
+
