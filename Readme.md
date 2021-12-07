@@ -5,7 +5,3 @@ ayarlar.json
 `channels kısmına register kanallarının idsini girin.`
 `staffRoles kısmına register yetkisini girin.`
 `unregisterRoles kısmına kayıtsızlara verilen rolün idsini girin.`
-
-İletişim için:
-instagram.com/emoderlerxd
-discord.gg/4eXnNDkhbb
