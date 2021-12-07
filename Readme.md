@@ -1,4 +1,4 @@
-## DOLDURULMASI GEREKEN YERLER;
+# DOLDURULMASI GEREKEN YERLER;
 
 # ayarlar.json
 # tokens kısmına tokenlerinizi yazın / 1 dosya ile 5 bot aktif edebilirsiniz.
